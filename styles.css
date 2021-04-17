@@ -15,5 +15,7 @@ body {
 }
 
 .head img {
-    wid
+    padding-bottom: 20px;
+    width: 60%;
+    margin: 0 20%;
 }
