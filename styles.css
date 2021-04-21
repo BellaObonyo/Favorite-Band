@@ -76,3 +76,7 @@ h2 {
     width: 50%;
     margin: 0 auto;
 }
+
+.fb li a img {
+    width: 24px;
+}
