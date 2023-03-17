@@ -17,9 +17,9 @@ Html
 css
 Vscode
 ## Support and contact details
-email: cynthia.obonyo@student.moringaschool.com
-cynthiabella.obonyo@gmail.com
-phone: +254792625077
+email: cynthiabella.obonyo@gmail.com
+
+
 
 The MIT License (MIT)
 
